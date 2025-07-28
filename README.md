@@ -184,9 +184,3 @@ See `approach_explanation.md` for details on:
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-```
-
----
-
-Let me know if you want this as a downloadable `README.md` file or want help pushing it to your GitHub repo!
-```
